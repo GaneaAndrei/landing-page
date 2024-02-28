@@ -1,0 +1,137 @@
+.section1{
+    background-color: #1F2937;
+    width: auto;
+    height: 800px;
+
+}
+.header{
+    display: flex;
+    align-items: center;
+   margin-left: auto;
+    gap: 20px;
+}
+.logo{
+    color: #F9FAF8;
+    margin-right: auto;
+    font-size: 24px;
+    font-family: 'Roboto';
+}
+.one, .two, .three{
+    color: #E5E7EB;
+    font-size: 18px;
+    font-family: 'Roboto';
+    
+
+}
+.text{
+margin-left: 200px;
+margin-right: 200px;
+}
+.text2{
+    width: 500px;
+}
+.this{
+    font-size: 48px;
+    font-weight: 800;
+    color: #f9faf8;
+    font-family: 'Roboto';
+}
+.secondary{
+    color: #E5E7EB;
+    font-size: 18px;
+    font-family: 'Roboto';
+}
+.button{
+    background-color: #3882F6;
+    border-radius: 4px;
+    width: 70px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #F9FAF8;
+    font-family: 'Roboto';
+}
+.smth{
+    display: flex;
+    gap: 10px;
+}
+.placeholder{
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 700px;
+    margin-top: 35px;
+    margin-left: auto;
+}
+.header2{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+    font-family: 'Roboto';
+}
+.subsection{
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.illustration{
+    border-color: blue;
+    border-radius: 16px;
+    border-style: solid;
+    height: 200px;
+    width: 200px;
+}
+.text-and-illustration{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Roboto';
+
+}
+.section3{
+    background-color: #E5E7EB;
+
+}
+.text-section3{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+    color: #1F2937;
+    font-family: 'Roboto';
+}
+.thor{
+   text-align: right;
+   font-weight: bold;
+   font-family: 'Roboto';
+}
+.blue{
+    background-color: blue;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Roboto';
+}
+.button2{
+    border-color: white;
+    border-radius: 16px;
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    background-color: #1F2937;
+    font-family: 'Roboto';
+    color: #F9FAF8;
+}
